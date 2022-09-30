@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet", href="butterflies.css">
+    <title>Masonry Layout con CSS Grid</title>
+</head>
+<body>
+    <h1>Butterflies in stomach</h1>
+
+    <div class="gallery" id="gallery">
+        <div class="gallery-item">
+            <div class="content"><img src="1.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="2.jpeg"></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="3.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="4.jpeg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="5.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="6.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="7.jpeg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><video src="8.mp4" controls></video></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="9.jpeg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="10.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><video src="11.mp4" controls></video></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="12.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="13.jpeg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><video src="14.mp4" controls></video></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="15.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><video src="16.mp4" controls></video></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="17.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="18.jpeg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="19.jpeg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="20.jpg" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="21.jpg" alt=""></div>
+        </div>
+        <script src="butterflies.js"></script>
+        
+    </div>
+    
+     
+</body>
+</html>
+
+
+
+https://uicookies.com/css-image-galleries/

@@ -1,0 +1,41 @@
+body {
+  background-color: #f7f3e7;
+    
+}
+.dream h2{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: Brush Script MT;
+}
+.dream{
+    text-align: center;
+    
+}
+img{
+    box-shadow: 1px 14px 23px 9px rgba(91,101,191,0.74);
+-webkit-box-shadow: 1px 14px 23px 9px rgba(91,101,191,0.74);
+-moz-box-shadow: 1px 14px 23px 9px rgba(91,101,191,0.74);
+    height: 353px;
+    width: 635px; 
+    border-radius: 15px;
+}
+.letter{
+    margin-top: 60px;
+    margin-left: 395px;
+    width: 700px;
+    text-align: center;
+    line-height: 25px;
+    word-spacing: 5px;
+}
+p{
+    font-weight: 600;
+    color: #02053e;
+}
+.audio{
+    text-align: center;
+    margin-top: 100px;
+}
+h5{
+    margin-top: 0;
+}

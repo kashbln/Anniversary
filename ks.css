@@ -1,0 +1,142 @@
+/*//////////////////////////
+// Happy Anniversary!
+//////////////////////////*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    background-size: 1550px 755px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(images/background.png);
+}
+.say{
+    font-family: cursive;
+    font-size: 14px;
+    color: #9999ff;
+    text-align: center;
+}
+#anniversary{
+    border: 2px solid #835760;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 35px;
+    letter-spacing: 5px;
+    color: aliceblue;
+    font-weight: bolder;
+}
+.kilig{
+  text-decoration: none;
+    font-size: 35px;
+    color: white;
+}
+#anniversary:hover{
+    background-color: bisque;
+    transition: 1.5s;
+}
+.navMenu {
+  font-family: "Montserrat", sans-serif;
+  position: absolute;
+  top: 86%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.navMenu a {
+  color: #f6f4e6;
+  text-decoration: none;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: 500;
+  width: 80px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+ padding: 0 15px;
+}
+.navMenu a:hover {
+  color: #ff80ff;
+}
+
+.navMenu .dot {
+  width: 6px;
+  height: 6px;
+  background: #ff80ff;
+  border-radius: 50%;
+  opacity: 0;
+  -webkit-transform: translateX(30px);
+  transform: translateX(30px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.navMenu a:nth-child(1):hover ~ .dot {
+  -webkit-transform: translateX(43px);
+  transform: translateX(43px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.navMenu a:nth-child(2):hover ~ .dot {
+  -webkit-transform: translateX(180px);
+  transform: translateX(180px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.navMenu a:nth-child(3):hover ~ .dot {
+  -webkit-transform: translateX(310px);
+  transform: translateX(310px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.navMenu a:nth-child(4):hover ~ .dot {
+  -webkit-transform: translateX(399px);
+  transform: translateX(399px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+.navMenu a:nth-child(5):hover ~ .dot {
+  -webkit-transform: translateX(514px);
+  transform: translateX(514px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+.navMenu a:nth-child(6):hover ~ .dot {
+  -webkit-transform: translateX(680px);
+  transform: translateX(680px);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+.navMenu .home{
+    border: 1px solid #835760;
+    border-radius: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
